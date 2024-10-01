@@ -1,2 +1,2 @@
-from .extension import preprocess
+from .preprocessor import preprocess
 __all__ = ['preprocess']
